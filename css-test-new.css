@@ -1,0 +1,43 @@
+html {
+  background-color: white;
+  height: 100%;
+  width: 100%;
+}
+
+
+/*grey*/
+#div0{
+	background-color: #e7e7e7;
+	height:  100px;
+	margin:  0px;
+	padding:  0px;
+	
+}
+
+/*blue*/
+#div1{
+	background-color: #12c2e9;
+	height:  400px;
+	/*margin-right:  10px;*/
+}
+
+/*pink*/
+#div2 {
+	background-color: #c471ed;
+	height:  400px;
+	/*margin-right:  10px;*/
+}
+
+/*red*/
+#div3 {
+	background-color: #f64f59;
+	height:  400px;
+	margin-right:  0px;
+}
+
+/*gradient-footer*/
+#div4{
+	background-image: linear-gradient(to right, #12c2e9 , #c471ed, #f64f59);
+	height:  100px;
+
+}
