@@ -1,9 +1,10 @@
 html {
   background-color: white;
-  height: 100%;
-  width: 100%;
 }
 
+#div00{
+	padding-right:  0px;
+}
 
 /*grey*/
 #div0{
@@ -11,27 +12,29 @@ html {
 	height:  100px;
 	margin:  0px;
 	padding:  0px;
-	
+
 }
+
 
 /*blue*/
 #div1{
 	background-color: #12c2e9;
-	height:  400px;
-	/*margin-right:  10px;*/
+	height:  350px;
+	/*margin-right: 35px;*/
 }
 
 /*pink*/
 #div2 {
 	background-color: #c471ed;
-	height:  400px;
-	/*margin-right:  10px;*/
+	height:  350px;
+	/*margin-right: 35px;*/
+	
 }
 
 /*red*/
 #div3 {
 	background-color: #f64f59;
-	height:  400px;
+	height:  350px;
 	margin-right:  0px;
 }
 
